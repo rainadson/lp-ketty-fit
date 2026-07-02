@@ -1,6 +1,8 @@
 # FIT em 30 Landing Page
 
-Landing page de vendas (sales page) desenvolvida para a personal trainer **Ketty Sato**, promovendo o aplicativo de treinos **FIT em 30**. Projeto 100% estático, focado em conversão, com copywriting orientado a dor/objeção, prova social, tabela de planos e integrações de rastreamento de tráfego pago.
+Landing page de vendas (sales page) para um app de treinos fictício, **FIT em 30**, construída como peça de portfólio. Projeto 100% estático, focado em conversão, com copywriting orientado a dor/objeção, prova social, tabela de planos e integrações de rastreamento de tráfego pago.
+
+> Projeto usado apenas como demonstração técnica de portfólio — não é um produto ou cliente real; nomes e identidade foram genéricos por design.
 
 ## Sobre o projeto
 
